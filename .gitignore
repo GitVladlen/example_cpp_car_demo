@@ -1,0 +1,8 @@
+**/*.bin
+**/*.vso
+**/*.pso
+**/bin
+**/User
+**/solutions
+**/dependencies
+**/.downloads
